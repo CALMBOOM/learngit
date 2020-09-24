@@ -3,5 +3,4 @@ git is bad
 asdadsadsda
 Git is a version control system
 
-not simple
-
+notsimple
